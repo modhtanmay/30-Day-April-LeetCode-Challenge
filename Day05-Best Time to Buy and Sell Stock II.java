@@ -22,7 +22,7 @@ Example 3:
 
 Input: [7,6,4,3,1]
 Output: 0
-Explanation: In this case, no transaction is done, i.e. max profit = 0.
+Explanation: In this case, no transaction is done, i.e. max profit = 0
  
 
 Constraints:
